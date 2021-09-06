@@ -1,0 +1,7 @@
+C:\Users\murad\source\repos\C# Project\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\murad\source\repos\C# Project\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\murad\source\repos\C# Project\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\murad\source\repos\C# Project\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\murad\source\repos\C# Project\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\murad\source\repos\C# Project\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\murad\source\repos\C# Project\Hotel Management System\obj\Debug\Hotel Management System.pdb
